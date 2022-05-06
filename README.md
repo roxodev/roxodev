@@ -10,6 +10,6 @@ Would you like to find me?
 
 <div style="display:inline-block"> 
   <a href="https://github.com/roxodev"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roxodev&show_icons=true&theme=&include_all_commits=true&count_private=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxodev&layout=compact&langs_count=16&theme=" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=roxodev&show_icons=true&theme=&include_all_commits=true&count_private=true" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxodev&layout=compact&langs_count=16&theme=" />
 </div>
