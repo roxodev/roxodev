@@ -1,6 +1,6 @@
 ## print('Hello World:earth_americas:, I'm Lucas').
 
-Bug detective :mag_right:, coffee addicted ☕ and travel lover ✈️ based in Brazil. Currently, I'm a QA Automation Tester at [**ViaHub**.](https://www.viahub.com.br/)
+Bug detective :mag_right:, coffee addicted ☕ and travel lover ✈️ based in Brazil. Currently, I'm a QA Engineer at [**ViaHub**.](https://www.viahub.com.br/)
 
 I’m currently learning **Robot Framework** and **Django**.
 
